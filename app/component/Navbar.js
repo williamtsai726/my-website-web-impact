@@ -12,7 +12,7 @@ export default function Navbar() {
             <Link href="/blog">Blog</Link>
           </li>
           <li className="md:hover:underline">
-            <Link href="/photos">Photos</Link>
+            <Link href="/photo">Photos</Link>
           </li>
         </ul>
       </div>
