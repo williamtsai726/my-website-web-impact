@@ -1,4 +1,4 @@
-import Container from "../component/Container";
+import Container from "../components/Container";
 
 export default async function Photo() {
   const dogs = await getDogs();
